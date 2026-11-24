@@ -63,6 +63,7 @@ ENTRY = (
     "Every server is down, including the monitor I would use to check them. "
     "I do not know what broke or when they return, and I will not guess."
 )
+# Verified 2026-11-24: 138 chars / 138 bytes, single line, UTF-8 - gate OK.
 
 
 def main() -> int:
